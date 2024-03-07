@@ -20,3 +20,4 @@
     ~/.vimrc: editors/nvim/.vimrc
     ~/.config/nvim/coc-settings.json: editors/nvim/coc-settings.json
     ~/.config/nvim/init.vim: editors/nvim/init.vim
+    ~/.ssh/config: os/mac/ssh/config
